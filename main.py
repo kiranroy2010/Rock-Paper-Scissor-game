@@ -1,3 +1,5 @@
+# Developed by Kiranroy.
+
 import random
 
 def main():
